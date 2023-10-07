@@ -7,6 +7,7 @@ from pygame.locals import *
 import socket
 #import struct
 #import binascii
+import pandas
 pygame.init()
 
 def RookMove(piBord,piece,position,Pieces):
